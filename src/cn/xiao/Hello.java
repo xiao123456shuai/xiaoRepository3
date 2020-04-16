@@ -10,6 +10,7 @@ public class Hello {
 
 		System.out.println("zhangsan");
 		System.out.println("lisi22");
+		System.out.println("zhangsan22");
 		
 	}
 	
