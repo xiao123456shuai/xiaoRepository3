@@ -9,7 +9,10 @@ public class Hello {
 		System.out.println("lisi");
 
 		System.out.println("zhangsan");
+<<<<<<< HEAD
 		System.out.println("lisi22");
+=======
+>>>>>>> branch 'master' of https://github.com/xiao123456shuai/xiaoRepository3.git
 		System.out.println("zhangsan22");
 		
 	}
